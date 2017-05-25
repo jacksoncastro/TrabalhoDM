@@ -45,6 +45,8 @@
     <Compile Include="Question11.cs" />
     <Compile Include="Question12.cs" />
     <Compile Include="Question13.cs" />
+    <Compile Include="Question14.cs" />
+    <Compile Include="Question15.cs" />
     <Compile Include="Question6.cs" />
     <Compile Include="Questao2.cs" />
     <Compile Include="Question.cs" />
