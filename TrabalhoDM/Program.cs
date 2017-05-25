@@ -67,8 +67,12 @@ namespace TrabalhoDM
             // question14.Execute();
 
             // Slide 6, questão 2
-            Question question15 = new Question15();
-            question15.Execute();
+            // Question question15 = new Question15();
+            // question15.Execute();
+
+            // Slide 7, questão 1
+            Question question16 = new Question16();
+            question16.Execute();
         }
     }
 }
