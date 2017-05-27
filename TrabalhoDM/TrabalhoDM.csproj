@@ -41,10 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Question20\Class.cs" />
+    <Compile Include="Question20\Discipline.cs" />
     <Compile Include="Estudant.cs" />
     <Compile Include="Extensions\CaptalizeExtension.cs" />
     <Compile Include="Extensions\IENumerableExtension.cs" />
     <Compile Include="Extensions\StringBuilderExtension.cs" />
+    <Compile Include="Question20\Person.cs" />
     <Compile Include="Question10.cs" />
     <Compile Include="Question11.cs" />
     <Compile Include="Question12.cs" />
@@ -67,6 +70,9 @@
     <Compile Include="Question7.cs" />
     <Compile Include="Question8.cs" />
     <Compile Include="Question9.cs" />
+    <Compile Include="Question20\School.cs" />
+    <Compile Include="Question20\Student.cs" />
+    <Compile Include="Question20\Teacher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
