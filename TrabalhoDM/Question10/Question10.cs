@@ -20,7 +20,7 @@ namespace TrabalhoDM
                 }
                 int[] array = ReadArray(sizeList);
 
-                showGreaterNumber(array);
+                ShowGreaterNumber(array);
             }
             catch (FormatException)
             {
@@ -32,7 +32,7 @@ namespace TrabalhoDM
             }
         }
 
-        private void showGreaterNumber(int[] array)
+        private void ShowGreaterNumber(int[] array)
         {
             Dictionary<int, int> greaterMap = new Dictionary<int, int>();
             foreach (int number in array)

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TrabalhoDM
 {
-    class Questao4 : Question
+    class Question4 : Question
     {
         public void Execute()
         {

@@ -12,24 +12,24 @@ namespace TrabalhoDM
         static void Main(string[] args)
         {
             // Slide 2, questão 1
-            // Questao questao1 = new Questao1();
-            // questao1.execute();
+            // Question question1 = new Question1();
+            // question1.Execute();
 
             // Slide 3, questão 1
-            // Questao questao2 = new Questao2();
-            // questao2.execute();
+            // Question questao2 = new Question2();
+            // questao2.Execute();
 
             // Slide 3, questão 2
-            // Questao questao3 = new Questao3();
-            // questao3.execute();
+            // Question question3 = new Question3();
+            // question3.Execute();
 
             // Slide 4, questão 1
-            // Questao questao4 = new Questao4();
-            // questao4.execute();
+            // Question question4 = new Question4();
+            // question4.Execute();
 
             // Slide 4, questão 2
-            // Question questao5 = new Questao5();
-            // questao5.Execute();
+            // Question question5 = new Question5();
+            // question5.Execute();
 
             // Slide 4, questão 3
             // Question question6 = new Question6();
