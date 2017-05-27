@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TrabalhoDM.spaceQuestion21;
 
 namespace TrabalhoDM
 {
@@ -83,8 +84,12 @@ namespace TrabalhoDM
             // question18.Execute();
 
             // Slide 7, questão 4
-            Question question19 = new Question19();
-            question19.Execute();
+            // Question question19 = new Question19();
+            // question19.Execute();
+
+            // Slide 8, questão 2
+            Question question21 = new Question21();
+            question21.Execute();
         }
     }
 }

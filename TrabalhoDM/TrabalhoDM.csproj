@@ -58,6 +58,11 @@
     <Compile Include="Question17.cs" />
     <Compile Include="Question18.cs" />
     <Compile Include="Question19.cs" />
+    <Compile Include="Question21\Circle.cs" />
+    <Compile Include="Question21\Question21.cs" />
+    <Compile Include="Question21\Rectangle.cs" />
+    <Compile Include="Question21\Shape.cs" />
+    <Compile Include="Question21\Triangle.cs" />
     <Compile Include="Question6.cs" />
     <Compile Include="Questao2.cs" />
     <Compile Include="Question.cs" />
