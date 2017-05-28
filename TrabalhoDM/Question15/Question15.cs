@@ -2,7 +2,7 @@
 
 namespace TrabalhoDM
 {
-    internal class Question15 : Question
+    public class Question15 : Question
     {
         public void Execute()
         {

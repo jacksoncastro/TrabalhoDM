@@ -3,36 +3,14 @@
    public class Student
     {
 
-        public Student(string firstName, string lastName)
+        public Student(string FirstName, string LastName)
         {
-            this.firstName = firstName;
-            this.lastName = lastName;
+            this.FirstName = FirstName;
+            this.LastName = LastName;
         }
 
-        private string firstName;
+        public string FirstName { get; set; }
 
-        private string lastName;
-
-
-        public string GetFirstName()
-        {
-            return firstName;
-        }
-
-        public void SetFirstName(string firstName)
-        {
-            this.firstName = firstName;
-        }
-
-
-        public string GetLastName()
-        {
-            return lastName;
-        }
-
-        public void SetLastName(string lastName)
-        {
-            this.lastName = lastName;
-        }
+        public string LastName { get; set; }
     }
 }

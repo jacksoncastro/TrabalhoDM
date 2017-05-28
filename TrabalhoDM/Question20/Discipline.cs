@@ -6,6 +6,6 @@
 
         public int NumberClasses { get; set; }
 
-        public int Exercises { get; set; }
+        public string Exercises { get; set; }
     }
 }

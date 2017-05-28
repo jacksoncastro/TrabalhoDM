@@ -9,7 +9,7 @@ namespace TrabalhoDM.spaceQuestion21
     public class Circle : Shape
     {
 
-        public Circle(int Width): base(Width, Width) { }
+        public Circle(int Height) : base(Height, Height) { }
 
         public override double CalculateSurface()
         {

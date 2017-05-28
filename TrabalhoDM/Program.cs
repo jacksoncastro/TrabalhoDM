@@ -12,84 +12,66 @@ namespace TrabalhoDM
         static void Main(string[] args)
         {
             // Slide 2, questão 1
-            // Question question1 = new Question1();
-            // question1.Execute();
+            // Question question = new Question1();
 
             // Slide 3, questão 1
-            // Question questao2 = new Question2();
-            // questao2.Execute();
+            // Question question = new Question2();
 
             // Slide 3, questão 2
-            // Question question3 = new Question3();
-            // question3.Execute();
+            // Question question = new Question3();
 
             // Slide 4, questão 1
-            // Question question4 = new Question4();
-            // question4.Execute();
+            // Question question = new Question4();
 
             // Slide 4, questão 2
-            // Question question5 = new Question5();
-            // question5.Execute();
+            // Question question = new Question5();
 
             // Slide 4, questão 3
-            // Question question6 = new Question6();
-            // question6.Execute();
+            // Question question = new Question6();
 
             // Slide 4, questão 4
-            // Question question7 = new Question7();
-            // question7.Execute();
+            // Question question = new Question7();
 
             // Slide 5, questão 1
-            // Question question8 = new Question8();
-            // question8.Execute();
+            // Question question = new Question8();
 
             // Slide 5, questão 2
-            // Question question9 = new Question9();
-            // question9.Execute();
+            // Question question = new Question9();
 
             // Slide 5, questão 3
-            // Question question10 = new Question10();
-            // question10.Execute();
+            // Question question = new Question10();
 
             // Slide 5, questão 4
-            // Question question11 = new Question11();
-            // question11.Execute();
+            // Question question = new Question11();
 
             // Slide 5, questão 5
-            // Question question12 = new Question12();
-            // question12.Execute();
+            Question question = new Question12();
 
             // Slide 5, questão 6
-            // Question question13 = new Question13();
-            // question13.Execute();
+            // Question question = new Question13();
 
             // Slide 6, questão 1
-            // Question question14 = new Question14();
-            // question14.Execute();
+            // Question question = new Question14();
 
             // Slide 6, questão 2
-            // Question question15 = new Question15();
-            // question15.Execute();
+            // Question question = new Question15();
 
             // Slide 7, questão 1
-            // Question question16 = new Question16();
-            // question16.Execute();
+            // Question question = new Question16();
 
             // Slide 7, questão 2
-            // Question question17 = new Question17();
-            // question17.Execute();
+            // Question question = new Question17();
 
             // Slide 7, questão 3
-            // Question question18 = new Question18();
-            // question18.Execute();
+            // Question question = new Question18();
 
             // Slide 7, questão 4
-            // Question question19 = new Question19();
-            // question19.Execute();
+            // Question question = new Question19();
 
             // Slide 8, questão 2
-            Question question21 = new Question21();
-            question21.Execute();
+            // Question question = new Question21();
+
+            question.Execute();
         }
     }
 }

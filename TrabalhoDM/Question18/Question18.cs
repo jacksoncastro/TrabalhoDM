@@ -15,13 +15,13 @@ namespace TrabalhoDM
                 new Student("Lucas", "Lima")
             };
             
-            studants = studants.OrderBy(studant => studant.GetFirstName())
-                               .ThenBy(studant => studant.GetLastName())
+            studants = studants.OrderByDescending(studant => studant.FirstName)
+                               .ThenByDescending(studant => studant.LastName)
                                .ToList();
 
             foreach(Student studant in studants)
             {
-                Console.WriteLine("{0} {1}", studant.GetFirstName(), studant.GetLastName());
+                Console.WriteLine("{0} {1}", studant.FirstName, studant.LastName);
             }
         }
     }
